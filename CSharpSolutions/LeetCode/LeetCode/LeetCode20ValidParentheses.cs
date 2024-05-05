@@ -1,4 +1,6 @@
-﻿namespace LeetCode;
+﻿using System.Collections.Generic;
+
+namespace LeetCode;
 
 public static class LeetCode20ValidParentheses {
     public static bool IsValid(string s) {
